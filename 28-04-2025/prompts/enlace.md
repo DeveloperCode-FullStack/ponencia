@@ -1,0 +1,6 @@
+[1. Prompt: Definición de Problema](https://chatgpt.com/g/g-680f9094b2708191bed70c4476cc9940-1-prompt-definicion-de-problema)
+[2. Prompt: Diseño de Instrumentos de Recolección](https://chatgpt.com/g/g-680f927432308191934d77df7bf9a4a2-2-prompt-diseno-de-instrumentos-de-recoleccion)
+[3. Prompt: Aplicación y Registro de Datos](https://chatgpt.com/g/g-680f938684708191b6af6c1a73f9f096-3-prompt-aplicacion-y-registro-de-datos)
+[4. Prompt: Análisis de Coste, Alcance y Tiempo](https://chatgpt.com/g/g-680f93f286b481919c21b9aa78fec491-4-prompt-analisis-de-coste-alcance-y-tiempo)
+[5. Prompt: Priorización Técnica con MoSCoW](https://chatgpt.com/g/g-680f944afbbc8191aeb4d9f4b94160e1-5-prompt-priorizacion-tecnica-con-moscow)
+[6. Prompt: Planeación SCRUM con Backlog y Git](https://chatgpt.com/g/g-680f94ccc05c81918cf83cece9843939-6-prompt-planeacion-scrum-con-backlog-y-git)

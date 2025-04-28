@@ -1,0 +1,17 @@
+Type,Question,Option 1,Option 2,Option 3,Option 4,Option 5,Option 6
+Multiple Choice,Edad,Menos de 18,18-24,25-34,35-44,45-54,55+
+Multiple Choice,Sexo,Masculino,Femenino,Prefiero no decirlo,,,
+Short Answer,Ciudad,,,,,,
+Multiple Choice,Frecuencia de compra en "Mercaderías El Detal",Semanal,Mensual,Esporádica,Nunca,,
+Multiple Choice,¿Con qué frecuencia realiza compras en línea?,Varias veces a la semana,Una vez por semana,Varias veces al mes,Raramente,Nunca,
+Checkbox,Plataformas donde más compra,Amazon,Mercado Libre,Tiendas locales online,Redes sociales (Instagram, Facebook),Otra
+Checkbox,Principales razones para comprar online,Comodidad,Precio,Variedad de productos,Rapidez de entrega,Otros
+Multiple Choice,¿Compraría productos de "Mercaderías El Detal" si tuviera tienda online?,Sí,No,Tal vez,,,
+Checkbox,Características más importantes en una tienda online,Facilidad de uso,Seguridad en el pago,Rapidez de entrega,Variedad de productos,Promociones/Descuentos,Atención al cliente
+Checkbox,¿Qué formas de pago preferiría utilizar en la tienda online?,Tarjeta de crédito/débito,Transferencia bancaria,Pago contra entrega,Plataformas de pago (PayPal, MercadoPago),Criptoactivos
+Multiple Choice,¿Qué tan importante es poder hacer seguimiento de su pedido en línea?,Muy importante,Algo importante,Poco importante,Nada importante,,
+Linear Scale,Califique la probabilidad de recomendar "Mercaderías El Detal",0,10,,,,
+Checkbox,Principales razones por las que NO compraría en línea,Preocupación por seguridad,Preferencia por ver/tocar el producto,Problemas previos de entrega,Falta de confianza,Otros
+Paragraph,¿Qué podría hacer "Mercaderías El Detal" para ganar su confianza online?,,,,,,
+Multiple Choice,¿Desea ser notificado cuando la tienda online esté disponible?,Sí,No,,,,
+Paragraph,Comentarios adicionales,,,,,,
