@@ -1,0 +1,48 @@
+<strong>Entidad: Socio</strong>
+<p>Atributos:</p>
+<ul>
+  <li>CodSocio</li>
+  <li>Nombre</li>
+  <li>Apellidos</li>
+  <li>Dirección</li>
+  <li>DNI</li>
+</ul>
+
+<strong>Entidad: Préstamo</strong>
+<p>Atributos:</p>
+<ul>
+  <li>CodPrestamo</li>
+  <li>FechaRealiza</li>
+  <li>FechaTope (opcional)</li>
+  <li>FechaDevuelto</li>
+</ul>
+
+<strong>Entidad: Libro</strong>
+<p>Atributos:</p>
+<ul>
+  <li>ISBN</li>
+  <li>Título</li>
+  <li>Estado</li>
+</ul>
+
+<strong>Entidad: Autor</strong>
+<p>Atributos:</p>
+<ul>
+  <li>CodAutor</li>
+  <li>Nombre</li>
+</ul>
+
+<strong>Entidad: Editorial</strong>
+<p>Atributos:</p>
+<ul>
+  <li>CodEditorial</li>
+  <li>Nombre</li>
+</ul>
+
+<strong>Relaciones:</strong>
+<ul>
+  <li><strong>Realiza</strong>: Un <em>Socio</em> realiza uno o varios <em>Préstamos</em> (1:N), y cada <em>Préstamo</em> pertenece a un único <em>Socio</em> (1:1).</li>
+  <li><strong>Contiene</strong>: Un <em>Préstamo</em> puede contener varios <em>Libros</em> y viceversa (M:N), con el atributo <em>Cantidad</em>.</li>
+  <li><strong>Escribe</strong>: Un <em>Autor</em> puede escribir varios <em>Libros</em> y un <em>Libro</em> puede ser escrito por varios <em>Autores</em> (M:N), con el atributo <em>Año</em>.</li>
+  <li><strong>Pertenece</strong>: Un <em>Libro</em> pertenece a una única <em>Editorial</em> (1:1), y una <em>Editorial</em> puede tener varios <em>Libros</em> (1:N).</li>
+</ul>
